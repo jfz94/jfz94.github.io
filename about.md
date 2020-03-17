@@ -12,7 +12,7 @@ permalink: /about/
 <p>I also worked for Blackbird Consulting, a Salesforce Partner in Spain. In Blackbird, I continued my career path as a developer.</p>
 <p>Nowadays, I'm working in S4G Consulting.</p>
 
-<h2>More Information</h2>
+<h2>More Information</h2> 
 
  <p>I consider myself a person who is always trying to give his best. Since I was a kid, I have an interest in technology and computer science, particularly in programming.</p>
 
